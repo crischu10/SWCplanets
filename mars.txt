@@ -1,0 +1,1 @@
+This is my first git file for the SWC day 2.
